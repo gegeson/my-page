@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - gegeson&#39;s blog</title>
-        <link>https://gegeson.github.io/my-page/posts/</link>
-        <description>All Posts | gegeson&#39;s blog</description>
+        <title>Life - Tag - gegeson&#39;s blog</title>
+        <link>https://gegeson.github.io/my-page/tags/life/</link>
+        <description>Life - Tag - gegeson&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>ja</language><managingEditor>yushin1301@gmail.com (Yuki Shigemasa)</managingEditor>
-            <webMaster>yushin1301@gmail.com (Yuki Shigemasa)</webMaster><lastBuildDate>Wed, 08 Mar 2023 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://gegeson.github.io/my-page/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>yushin1301@gmail.com (Yuki Shigemasa)</webMaster><lastBuildDate>Wed, 08 Mar 2023 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://gegeson.github.io/my-page/tags/life/" rel="self" type="application/rss+xml" /><item>
     <title>Hugoでマイページ作ってみたぜよ😃</title>
     <link>https://gegeson.github.io/my-page/posts/first_post/</link>
     <pubDate>Wed, 08 Mar 2023 15:58:26 &#43;0800</pubDate>

@@ -79,13 +79,13 @@ enable = true
 # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
 custom = ''
 # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
-hugo = true
+hugo = false
 # LoveIt NEW | 0.2.0 whether to show copyright info
 copyright = true
 # LoveIt NEW | 0.2.0 whether to show the author
 author = true
 # Site creation time
-since = 2019
+since = 2023
 # ICP info only in China (HTML format is supported)
 icp = ""
 # license info (HTML format is supported)

@@ -4,5 +4,13 @@
         <link>https://gegeson.github.io/my-page/categories/</link>
         <description>Categories - Category - gegeson&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>ja</language><managingEditor>yushin1301@gmail.com (Yuki Shigemasa)</managingEditor>
-            <webMaster>yushin1301@gmail.com (Yuki Shigemasa)</webMaster><atom:link href="https://gegeson.github.io/my-page/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>yushin1301@gmail.com (Yuki Shigemasa)</webMaster><lastBuildDate>Wed, 08 Mar 2023 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://gegeson.github.io/my-page/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Life</title>
+    <link>https://gegeson.github.io/my-page/categories/life/</link>
+    <pubDate>Wed, 08 Mar 2023 15:58:26 &#43;0800</pubDate>
+    <author>Yuki Shigemasa</author>
+    <guid>https://gegeson.github.io/my-page/categories/life/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

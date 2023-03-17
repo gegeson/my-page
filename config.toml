@@ -18,15 +18,12 @@ noClasses = false
 [menu]
 [[menu.main]]
 identifier = "posts"
-weight = 1
-# you can add extra information before the name (HTML format is supported), such as icons
-pre = ""
-# you can add extra information after the name (HTML format is supported), such as icons
 name = "Posts"
 post = ""
-url = "/posts/"
-# title will be shown when you hover on this menu link
+pre = ""
 title = ""
+url = "/posts/"
+weight = 1
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
@@ -43,13 +40,13 @@ pre = ""
 title = ""
 url = "/categories/"
 weight = 3
-# [[menu.main]]
-# identifier = "about"
-# name = "About"
-# post = ""
-# pre = ""
-# title = ""
-# url = "/about/"
+[[menu.main]]
+identifier = "about"
+name = "About"
+post = ""
+pre = ""
+title = ""
+url = "/about/about_me"
 # weight = 4
 [[menu.links]]
 identifier = "github"
@@ -153,7 +150,7 @@ enable = true
 # Gravatar Email for preferred avatar in home page
 gravatarEmail = ""
 # URL of avatar shown in home page
-avatarURL = "/images/logo.png"
+avatarURL = "/images/about/logo.png"
 # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
 title = ""
 # subtitle shown in home page (HTML format is supported)

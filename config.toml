@@ -43,14 +43,14 @@ pre = ""
 title = ""
 url = "/categories/"
 weight = 3
-[[menu.main]]
-identifier = "about"
-name = "About"
-post = ""
-pre = ""
-title = ""
-url = "/about/"
-weight = 4
+# [[menu.main]]
+# identifier = "about"
+# name = "About"
+# post = ""
+# pre = ""
+# title = ""
+# url = "/about/"
+# weight = 4
 [[menu.links]]
 identifier = "github"
 name = "GitHub"

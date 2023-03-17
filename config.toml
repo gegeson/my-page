@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://gegeson.github.io/my-page/"
 languageCode = "ja"
 languageName = "Japan"
+staticDir = ['static']
 theme = "LoveIt"
-title = "gegeson's portfolio"
+title = "gegeson's blog"
 
 [author]
 email = "yushin1301@gmail.com"
@@ -67,7 +68,7 @@ desktopMode = "fixed"
 mobileMode = "auto"
 [params.header.title]
 logo = ""
-name = "gegeson's portfolio"
+name = "gegeson's blog"
 post = ""
 pre = ""
 typeit = false

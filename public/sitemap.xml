@@ -2,8 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/first_post/</loc><lastmod>2023-03-12T22:06:38&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2023-03-12T22:06:38&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2023-03-12T22:06:38&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>https://gegeson.github.io/my-page/about/about_site/</loc><lastmod>2023-03-18T02:56:27&#43;09:00</lastmod></url><url>
+            <loc>https://gegeson.github.io/my-page/about/</loc><lastmod>2023-03-18T02:56:27&#43;09:00</lastmod></url><url>
+            <loc>https://gegeson.github.io/my-page/</loc><lastmod>2023-03-18T02:56:27&#43;09:00</lastmod></url><url>
+            <loc>https://gegeson.github.io/my-page/about/about_me/</loc><lastmod>2023-03-17T06:14:21&#43;09:00</lastmod></url><url>
+            <loc>https://gegeson.github.io/my-page/posts/first_post/</loc><lastmod>2023-03-12T22:06:38&#43;09:00</lastmod></url><url>
+            <loc>https://gegeson.github.io/my-page/posts/</loc><lastmod>2023-03-12T22:06:38&#43;09:00</lastmod></url><url>
+            <loc>https://gegeson.github.io/my-page/categories/</loc></url><url>
+            <loc>https://gegeson.github.io/my-page/tags/</loc></url></urlset>

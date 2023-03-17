@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on gegeson&#39;s blog</title>
+    <link>https://gegeson.github.io/my-page/about/</link>
+    <description>Recent content in Abouts on gegeson&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>yushin1301@gmail.com (Yuki Shigemasa)</managingEditor>
+    <webMaster>yushin1301@gmail.com (Yuki Shigemasa)</webMaster>
+    <lastBuildDate>Sat, 18 Mar 2023 02:56:27 +0900</lastBuildDate><atom:link href="https://gegeson.github.io/my-page/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About_site</title>
+      <link>https://gegeson.github.io/my-page/about/about_site/</link>
+      <pubDate>Sat, 18 Mar 2023 02:56:27 +0900</pubDate>
+      <author>yushin1301@gmail.com (Yuki Shigemasa)</author>
+      <guid>https://gegeson.github.io/my-page/about/about_site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://gegeson.github.io/my-page/about/about_me/</link>
+      <pubDate>Fri, 17 Mar 2023 06:14:21 +0900</pubDate>
+      <author>yushin1301@gmail.com (Yuki Shigemasa)</author>
+      <guid>https://gegeson.github.io/my-page/about/about_me/</guid>
+      <description>Hi, I&amp;rsquo;m Yuki Shigemasa!
+Currently working as a backend engineer.
+My hobbies are watching anime and training 💪
+🏢 History
+2022/03 - Current Backend Engineer @ CyberAgent, Inc.
+2021/03 - 2023/01 Backend Engineer @ Oh my teeth
+2018/04 - 2022/03 Kyushu Univ. Department of Architecture</description>
+    </item>
+    
+  </channel>
+</rss>
